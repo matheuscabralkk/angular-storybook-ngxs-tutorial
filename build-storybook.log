@@ -1,0 +1,788 @@
+[0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+
+1.1.19
+
+TypeScript version used by Compodoc : 4.5.5
+
+TypeScript version of current project : 4.6.2
+
+Node.js version : v18.7.0
+
+Operating system : Linux 5.15
+
+[18:45:43] No configuration file found, switching to CLI flags.
+[18:45:43] Using tsconfig file : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/tsconfig.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.browserslistrc
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.editorconfig
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.gitignore
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/LICENSE
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/README.md
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/angular.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/build-storybook.log
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/documentation.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/jest.config.js
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/package-lock.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/package.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/tsconfig.app.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/tsconfig.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/tsconfig.spec.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.idea/.gitignore
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.idea/misc.xml
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.idea/modules.xml
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.idea/taskbox.iml
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.idea/vcs.xml
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.idea/workspace.xml
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.storybook/main.js
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.storybook/preview.js
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.storybook/tsconfig.json
+[18:45:43] Ignoring       : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.storybook/typings.d.ts
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/jest-config/setup.ts
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/favicon.ico
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/index.html
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/main.ts
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/polyfills.ts
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/styles.css
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/jest-config/__mocks__/fileMock.js
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/jest-config/__mocks__/globalMocks.ts
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/jest-config/__mocks__/styleMock.js
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/app/app.component.css
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/app/app.component.html
+[18:45:43] Ignoring       : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/app/app.component.spec.ts
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/app/app.component.ts
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/app/app.module.ts
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/assets/.gitkeep
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/environments/environment.prod.ts
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/environments/environment.ts
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/stories/Button.stories.ts
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/stories/Header.stories.ts
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/stories/Introduction.stories.mdx
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/stories/Page.stories.ts
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/stories/User.ts
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/stories/button.component.ts
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/stories/button.css
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/stories/header.component.ts
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/stories/header.css
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/stories/page.component.ts
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/stories/page.css
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/app/components/inbox-screen.component.ts
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/app/components/pure-inbox-screen.component.ts
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/app/components/pure-inbox-screen.stories.ts
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/app/components/pure-task-list.component.ts
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/app/components/pure-task-list.stories.ts
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/app/components/task-list.component.ts
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/app/components/task.component.ts
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/app/components/task.module.ts
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/app/components/task.stories.ts
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/app/models/task.model.ts
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/app/state/task.state.ts
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/assets/font/OpenSans-Light-webfont.eot
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/assets/font/OpenSans-Light-webfont.svg
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/assets/font/OpenSans-Light-webfont.ttf
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/assets/font/OpenSans-Light-webfont.woff
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/assets/font/OpenSans-Regular-webfont.eot
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/assets/font/OpenSans-Regular-webfont.svg
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/assets/font/OpenSans-Regular-webfont.ttf
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/assets/font/OpenSans-Regular-webfont.woff
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/assets/icon/percolate.eot
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/assets/icon/percolate.svg
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/assets/icon/percolate.ttf
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/assets/icon/percolate.woff
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/stories/assets/code-brackets.svg
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/stories/assets/colors.svg
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/stories/assets/comments.svg
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/stories/assets/direction.svg
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/stories/assets/flow.svg
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/stories/assets/plugin.svg
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/stories/assets/repo.svg
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/stories/assets/stackalt.svg
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/030bf59e2dabac626a98f5825f62eff2.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/0295f9137a8f7c2c2554b29927e37533.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/045efe4a6d8cceba997f129e884a2c22.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/06747aa5930caccc9d4bc47a0ac8fdc0.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/0beeda56e9567e5da7329ed65e53f28e.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/0d2b7d4ce355625e620887b472762461.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/0e538f0a0542370c92d6487b7e8b98d3.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/1213d889a6b9f378c8b98c1b37aeba8b.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/149d3b482d44e63ba4ecd9c14f0f680d.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/1c820429975b6e4d53d1634183769043.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/1d3783d725364843ac02105d73eec961.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/1dbdca503dd549912f2f77125d427865.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/1dc404364d333499c24f047ffabfa5fc.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/1fb4cd3ed5ebd77f344db786e76dc85e.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/200509b9bc5c6f35c80a1c63d50f3b8f.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/23cc55ca416ef5d686b1830a7fae10fe.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/25f385c244b10d7f4243540cd435940d.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/2704580513457ffd63fe62954f748768.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/2d04e35000c50efc42b72260f4547c4c.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/2d5b4dae4028325fb95a1e7ae4e581c2.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/2da1cc9cbfd3c1de10272011a59bea7b.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/3053bc4d980510ac5282e1780c5c946c.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/3070d7bdb9ef46a60fae6630735c77b7.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/360c43815d0a7253233a798f1825728e.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/364460abcf49ab0e432e4c03d33c592d.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/39129ecbc2bc9635ff02b034f6fc99ce.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/3d4b3fc8005d6e9737e9db1d1f8e16d3.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/3e3fe4dcdf6f71d9278139addedac2db.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/3f7aeca6f0445412fe4ef283e1672850.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/41b8b48b2bf2533b73317cb887a2333e.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/44f524bd366511e0c4ac072481c67d34.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/471721e0c0b2c3843a270bf05f06d359.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/4ab4542f7adae73f0329669bb96f85f5.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/50022c2e9cc0fc4a77e847119386febd.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/5031b5a97a21aab07c09dbb5c8f45398.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/518cefc229d966d120c3ba7dd1d262c5.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/523ab0390f87e6596566189f103d494c.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/540e314e12d2220d9cb213d8756617ea.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/57d4c4f2318c301bee9f2be781e06952.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/57fc4d97be86878cc3fbf547e6dde5f5.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/583a02394893920a8d9b631edcacd486.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/5ae2e7d64087480c7b05da1c1963b8aa.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/5dab161b041fa43bb16f32eef0da0bd3.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/6364cac30e1c26bef9519b4f7ca970e4.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/655425a2820d6ab6afe0ab0c85d4f93b.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/671c438c49f8b6fb9c5fa6cc4ac4340e.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/6832cb11c25f6fa135d5d9ae2731f29c.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/6892e37e804fc857ef60908d69a792f3.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/6aec221fb9014d1d2e107a9ea730e504.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/6c857b768f03d9588fc5e86403a16f0b.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/6d5c02ef5e03d5ca9bceaf17a8893dd3.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/6ed699cf04514ef68a71173d7d59fc98.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/6fb5c19faa8468e0f9391588e12fa778.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/71bd30fa9e12c4dd69cb68b5d5171c4b.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/76d04ebfab4fb939d6d213ede84dd122.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/79fd2fbdf8c51a5fee62d76d7db29333.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/7b909c6b6fc2c25809b1207ba8cff66e.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/7cdb14956bea2b1a95cbcd2a8189c7b8.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/7d313f56c529ce90dfad62ee25632732.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/7e4777e9d260fe181763310adb9f364e.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/83874d665fe225fa4b2203a8276ed30c.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/8465fab19a090cea3478d35397d4ecfd.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/86b6852ca0f93720895f3945729a459c.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/86f264a5ed5ebecc647bf7c27340f025.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/87196f85348f97b08787418b23eed97a.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/8d55450350b990ebe34e06358e86a50e.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/8d869e821112160a4709210c6b740683.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/8dad3bd771c4cb7418a3300a13e8685b.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/8ee72849644467b83a30e7b756d81178.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/90f6bfa7b69e0aa66a959431506ff1dd.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/94d0218031158060fad4719cedeb5b33.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/951c4c6b573e87f2dafd3fc7598de637.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/95ce479881257988683e8c1feb103857.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/96bc53839b583b9b05735cfff2371d63.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/985b2e59d49ff1846cce76685596e735.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/9bef3b3cf52f219470b49f566069c285.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/a0da29e8c9ebdf74ba8c252ae4a9e0f1.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/a37b07f158998a4a57be2f6a3be8d84a.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/ac0528a4f1fc29a512d0bcb3bb2810ca.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/ac930a1d692113a58ac764d14e3ef2e6.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/aced337bf0efe30f1df8e09ea7ed733b.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/b04786bd2a0a5654574f92412b92f8a2.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/b070bb5b72bafc465b95fea5d154fe17.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/b1b51d08d173202680d0ddf3b6929119.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/b49e8d31bed23e99c3eb058697e77900.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/b70ef0f84b68f726f70d00dec9664584.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/b75c86003fee3264a1399be1a884f950.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/b960c5fb49c5593dab3e05202e547664.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/b97a1de7d671d76b1ccf14411306f73e.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/bd4bc0922652651143d6a626c2a2f403.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/bfea048fea1922a3b69094fb6a36bcb4.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/c5781ae271dfb369b331e09c4bcde299.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/c81150d245f2c4653ecf0901d52c93d0.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/cb44dd489cd2518e6d4506835b7bd4aa.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/d2602283deddc26ea58ce89d002823a1.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/d27636051f882f5d464afad63ed5a693.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/d47dcdda9c28ced1224880bdff67d579.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/d55cfa31cac564c8078514c5b09c9e2c.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/d5be001fcae4093bbedf0f73bcd3e7e0.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/d6bf7531af3cd287a008978186b20b4a.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/da6287ea62bb1945f0e46abe657cd249.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/ddf291d7fe0c8ddadc536acb238653fa.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/deb8059ee22aa9812645b65366a2a065.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/e3b17b42b18c3fc0a2990afa8228e53f.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/e3e2036e6dffd36aaff7223d5238343b.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/e423aad3f71ba2391059ca446d5abcf5.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/e5409b907c046ad552d93fdaf9a2af42.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/e7a6a4a07b002465cd980b38d0d2abd8.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/ea5d06f7c192f86dc7aa4e00809da9f1.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/ebba1e7bbee5a13199f45260128014b1.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/ed474d33f42d76aa59c95d8da180b617.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/edd899f0e88f15f884b036af67a251c6.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/efc76edc7d3dbb08d6e4e7766fd5a69f.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/efdd7e23f7c8b422858c1dfb572bac18.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/f06a9f1e2b9c999b299d7df401fb8057.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/f54127c21ab52a0beb1a533561ab752a.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/f6b18f296150f4745463d7107c99e145.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/fb3b1da1f0d033b5b5cf1be5bfeb4046.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/fc750fa02223a8d82394056157cd1df6.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/fc973c4f913694982a17eb3c6f36cba8.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/fef7e330ac77e50fc54ffd9a02b55490.json
+[18:45:43] Including      : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.angular/cache/13.3.7/babel-webpack/ff3395a7d5ed664f02c3359d35aa3d49.json
+[18:45:43] Searching package.json file
+[18:45:43] package.json file found
+[18:45:43] Processing package.json dependencies
+[18:45:43] Searching README.md, CHANGELOG.md, CONTRIBUTING.md, LICENSE.md, TODO.md files
+[18:45:43] README.md file found
+[18:45:43] Error during /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/CHANGELOG read
+[18:45:43] Continuing without CHANGELOG.md file
+[18:45:43] Error during /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/CONTRIBUTING read
+[18:45:43] Continuing without CONTRIBUTING.md file
+[18:45:43] LICENSE.md file found
+[18:45:43] Error during /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/TODO read
+[18:45:43] Continuing without TODO.md file
+[18:45:43] Get dependencies data
+[18:45:43] parsing        : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/jest-config/setup.ts
+[18:45:43] parsing        : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/main.ts
+[18:45:43] parsing        : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/polyfills.ts
+[18:45:43] parsing        : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/jest-config/__mocks__/globalMocks.ts
+[18:45:43] parsing        : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/app/app.component.ts
+[18:45:43] found          : AppComponent
+[18:45:43] parsing        : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/app/app.module.ts
+[18:45:43] found          : AppModule
+[18:45:43]                : - imports:
+[18:45:43]                : 	- BrowserModule
+[18:45:43]                : 	- TaskModule
+[18:45:43]                : 	- NgxsModule
+[18:45:43]                : 	- NgxsReduxDevtoolsPluginModule
+[18:45:43]                : 	- NgxsLoggerPluginModule
+[18:45:43]                : - declarations:
+[18:45:43]                : 	- AppComponent
+[18:45:43]                : 	- InboxScreenComponent
+[18:45:43]                : 	- PureInboxScreenComponent
+[18:45:43]                : - bootstrap:
+[18:45:43]                : 	- AppComponent
+[18:45:43] parsing        : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/environments/environment.prod.ts
+[18:45:43] found          : environment
+[18:45:43] parsing        : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/environments/environment.ts
+[18:45:43] found          : environment
+[18:45:43] parsing        : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/stories/Button.stories.ts
+[18:45:43] found          : Template
+[18:45:43] found          : Primary
+[18:45:43] found          : Secondary
+[18:45:43] found          : Large
+[18:45:43] found          : Small
+[18:45:43] parsing        : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/stories/Header.stories.ts
+[18:45:43] found          : Template
+[18:45:43] found          : LoggedIn
+[18:45:43] found          : LoggedOut
+[18:45:43] parsing        : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/stories/Page.stories.ts
+[18:45:43] found          : Template
+[18:45:43] found          : LoggedOut
+[18:45:43] found          : LoggedIn
+[18:45:43] parsing        : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/stories/User.ts
+[18:45:43] found          : User
+[18:45:43] parsing        : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/stories/button.component.ts
+[18:45:43] found          : ButtonComponent
+[18:45:43] parsing        : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/stories/header.component.ts
+[18:45:43] found          : HeaderComponent
+[18:45:43] parsing        : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/stories/page.component.ts
+[18:45:43] found          : PageComponent
+[18:45:43] parsing        : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/app/components/inbox-screen.component.ts
+[18:45:43] found          : InboxScreenComponent
+[18:45:43] parsing        : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/app/components/pure-inbox-screen.component.ts
+[18:45:43] found          : PureInboxScreenComponent
+[18:45:43] parsing        : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/app/components/pure-inbox-screen.stories.ts
+[18:45:43] found          : Template
+[18:45:43] found          : Default
+[18:45:43] found          : Error
+[18:45:43] found          : WithInteractions
+[18:45:43] parsing        : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/app/components/pure-task-list.component.ts
+[18:45:43] found          : PureTaskListComponent
+[18:45:43] parsing        : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/app/components/pure-task-list.stories.ts
+[18:45:43] found          : Template
+[18:45:43] found          : Default
+[18:45:43] found          : WithPinnedTasks
+[18:45:43] found          : Loading
+[18:45:43] found          : Empty
+[18:45:43] parsing        : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/app/components/task-list.component.ts
+[18:45:43] found          : TaskListComponent
+[18:45:43] parsing        : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/app/components/task.component.ts
+[18:45:43] found          : TaskComponent
+[18:45:43] parsing        : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/app/components/task.module.ts
+[18:45:43] found          : TaskModule
+[18:45:43]                : - imports:
+[18:45:43]                : 	- CommonModule
+[18:45:43]                : 	- NgxsModule
+[18:45:43]                : - exports:
+[18:45:43]                : 	- TaskComponent
+[18:45:43]                : 	- TaskListComponent
+[18:45:43]                : - declarations:
+[18:45:43]                : 	- TaskComponent
+[18:45:43]                : 	- TaskListComponent
+[18:45:43]                : 	- PureTaskListComponent
+[18:45:43] parsing        : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/app/components/task.stories.ts
+[18:45:43] found          : actionsData
+[18:45:43] found          : Template
+[18:45:43] found          : Default
+[18:45:43] found          : Pinned
+[18:45:43] found          : Archived
+[18:45:43] parsing        : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/app/models/task.model.ts
+[18:45:43] found          : Task
+[18:45:43] parsing        : /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/app/state/task.state.ts
+[18:45:43] found          : actions
+[18:45:43] found          : ArchiveTask
+[18:45:43] found          : PinTask
+[18:45:43] found          : AppError
+[18:45:43] found          : defaultTasks
+[18:45:43] found          : TaskStateModel
+[18:45:43] found          : TasksState
+[18:45:43] -------------------
+[18:45:43] Project statistics 
+[18:45:43] - files      : 203
+[18:45:43] - module     : 2
+[18:45:43] - component  : 9
+[18:45:43] - injectable : 1
+[18:45:43] - class      : 3
+[18:45:43] - interface  : 3
+[18:45:43] -------------------
+[18:45:43] Prepare components
+[18:45:43]  ButtonComponent has styleUrls, include them
+[18:45:43]  HeaderComponent has styleUrls, include them
+[18:45:43]  PageComponent has styleUrls, include them
+[18:45:43] Prepare modules
+[18:45:43] Prepare injectables
+[18:45:43] Prepare classes
+[18:45:43] Prepare interfaces
+[18:45:43] Prepare miscellaneous
+[18:45:43] Process documentation coverage report
+[18:45:43] Generating documentation in export format json
+[18:45:43] Documentation generated in ./ in 0.427 seconds
+info @storybook/angular v6.5.7
+info 
+info => Cleaning outputDir: /tmp/chromatic--353497-TWjxFPrRARAE
+info => Loading presets
+info => Compiling manager..
+info => Compiling preview..
+info Addon-docs: using MDX1
+info => Using implicit CSS loaders
+info => Loading angular-cli config for angular >= 13.0.0
+info => Using angular project with "tsConfig:/home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/.storybook/tsconfig.json"
+WARN Your Storybook startup uses a solution that will not be supported in version 7.0. 
+WARN You must use angular builder to have an explicit configuration on the project used in angular.json
+WARN Read more at:
+WARN - https://github.com/storybookjs/storybook/blob/next/MIGRATION.md#sb-angular-builder)
+WARN - https://github.com/storybookjs/storybook/blob/next/MIGRATION.md#angular13)
+info => Using angular project "taskbox:build" for configuring Storybook
+info => Using default Webpack5 setup
+<s> [webpack.Progress] 0% 
+
+<s> [webpack.Progress] 1% setup before run
+<s> [webpack.Progress] 1% setup before run NodeEnvironmentPlugin
+<s> [webpack.Progress] 1% setup before run
+<s> [webpack.Progress] 2% setup run
+<s> [webpack.Progress] 2% setup run
+<s> [webpack.Progress] 4% setup normal module factory
+<s> [webpack.Progress] 4% setup normal module factory CaseSensitivePathsPlugin
+<s> [webpack.Progress] 4% setup normal module factory
+<s> [webpack.Progress] 5% setup context module factory
+<s> [webpack.Progress] 5% setup context module factory
+<s> [webpack.Progress] 6% setup before compile
+<s> [webpack.Progress] 6% setup before compile angular-compiler
+<s> [webpack.Progress] 6% setup before compile ProgressPlugin
+<s> [webpack.Progress] 6% setup before compile
+<s> [webpack.Progress] 7% setup compile
+<s> [webpack.Progress] 7% setup compile ExternalsPlugin
+<s> [webpack.Progress] 7% setup compile
+<s> [webpack.Progress] 8% setup compilation
+<s> [webpack.Progress] 8% setup compilation CopyPlugin
+<s> [webpack.Progress] 8% setup compilation angular-compiler
+<s> [webpack.Progress] 8% setup compilation mini-css-extract-plugin
+<s> [webpack.Progress] 8% setup compilation ArrayPushCallbackChunkFormatPlugin
+<s> [webpack.Progress] 8% setup compilation JsonpChunkLoadingPlugin
+<s> [webpack.Progress] 8% setup compilation StartupChunkDependenciesPlugin
+<s> [webpack.Progress] 8% setup compilation ImportScriptsChunkLoadingPlugin
+<s> [webpack.Progress] 8% setup compilation FetchCompileWasmPlugin
+<s> [webpack.Progress] 8% setup compilation FetchCompileAsyncWasmPlugin
+<s> [webpack.Progress] 8% setup compilation WorkerPlugin
+<s> [webpack.Progress] 8% setup compilation SplitChunksPlugin
+<s> [webpack.Progress] 8% setup compilation RuntimeChunkPlugin
+<s> [webpack.Progress] 8% setup compilation ResolverCachePlugin
+<s> [webpack.Progress] 8% setup compilation HtmlWebpackPlugin
+<s> [webpack.Progress] 8% setup compilation
+<s> [webpack.Progress] 9% setup compilation
+<s> [webpack.Progress] 9% setup compilation named-chunks-plugin
+<s> [webpack.Progress] 9% setup compilation DedupeModuleResolvePlugin
+<s> [webpack.Progress] 9% setup compilation AnyComponentStyleBudgetChecker
+<s> [webpack.Progress] 9% setup compilation mini-css-extract-plugin
+<s> [webpack.Progress] 9% setup compilation SuppressExtractedTextChunks
+<s> [webpack.Progress] 9% setup compilation DefinePlugin
+<s> [webpack.Progress] 9% setup compilation ProvidePlugin
+<s> [webpack.Progress] 9% setup compilation ProgressPlugin
+<s> [webpack.Progress] 9% setup compilation ChunkPrefetchPreloadPlugin
+<s> [webpack.Progress] 9% setup compilation SourceMapDevToolPlugin
+<s> [webpack.Progress] 9% setup compilation JavascriptModulesPlugin
+<s> [webpack.Progress] 9% setup compilation JsonModulesPlugin
+<s> [webpack.Progress] 9% setup compilation AssetModulesPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation RuntimePlugin
+<s> [webpack.Progress] 9% setup compilation InferAsyncModulesPlugin
+<s> [webpack.Progress] 9% setup compilation DataUriPlugin
+<s> [webpack.Progress] 9% setup compilation FileUriPlugin
+<s> [webpack.Progress] 9% setup compilation CompatibilityPlugin
+<s> [webpack.Progress] 9% setup compilation HarmonyModulesPlugin
+<s> [webpack.Progress] 9% setup compilation AMDPlugin
+<s> [webpack.Progress] 9% setup compilation RequireJsStuffPlugin
+<s> [webpack.Progress] 9% setup compilation CommonJsPlugin
+<s> [webpack.Progress] 9% setup compilation LoaderPlugin
+<s> [webpack.Progress] 9% setup compilation LoaderPlugin
+<s> [webpack.Progress] 9% setup compilation NodeStuffPlugin
+<s> [webpack.Progress] 9% setup compilation APIPlugin
+<s> [webpack.Progress] 9% setup compilation ExportsInfoApiPlugin
+<s> [webpack.Progress] 9% setup compilation WebpackIsIncludedPlugin
+<s> [webpack.Progress] 9% setup compilation ConstPlugin
+<s> [webpack.Progress] 9% setup compilation UseStrictPlugin
+<s> [webpack.Progress] 9% setup compilation RequireIncludePlugin
+<s> [webpack.Progress] 9% setup compilation RequireEnsurePlugin
+<s> [webpack.Progress] 9% setup compilation RequireContextPlugin
+<s> [webpack.Progress] 9% setup compilation ImportPlugin
+<s> [webpack.Progress] 9% setup compilation RequireContextPlugin
+<s> [webpack.Progress] 9% setup compilation SystemPlugin
+<s> [webpack.Progress] 9% setup compilation ImportMetaPlugin
+<s> [webpack.Progress] 9% setup compilation URLPlugin
+<s> [webpack.Progress] 9% setup compilation DefaultStatsFactoryPlugin
+<s> [webpack.Progress] 9% setup compilation DefaultStatsPresetPlugin
+<s> [webpack.Progress] 9% setup compilation DefaultStatsPrinterPlugin
+<s> [webpack.Progress] 9% setup compilation JavascriptMetaInfoPlugin
+<s> [webpack.Progress] 9% setup compilation EnsureChunkConditionsPlugin
+<s> [webpack.Progress] 9% setup compilation RemoveEmptyChunksPlugin
+<s> [webpack.Progress] 9% setup compilation MergeDuplicateChunksPlugin
+<s> [webpack.Progress] 9% setup compilation FlagIncludedChunksPlugin
+<s> [webpack.Progress] 9% setup compilation SideEffectsFlagPlugin
+<s> [webpack.Progress] 9% setup compilation FlagDependencyExportsPlugin
+<s> [webpack.Progress] 9% setup compilation FlagDependencyUsagePlugin
+<s> [webpack.Progress] 9% setup compilation InnerGraphPlugin
+<s> [webpack.Progress] 9% setup compilation MangleExportsPlugin
+<s> [webpack.Progress] 9% setup compilation ModuleConcatenationPlugin
+<s> [webpack.Progress] 9% setup compilation NoEmitOnErrorsPlugin
+<s> [webpack.Progress] 9% setup compilation RealContentHashPlugin
+<s> [webpack.Progress] 9% setup compilation WasmFinalizeExportsPlugin
+<s> [webpack.Progress] 9% setup compilation NamedModuleIdsPlugin
+<s> [webpack.Progress] 9% setup compilation DeterministicChunkIdsPlugin
+<s> [webpack.Progress] 9% setup compilation DefinePlugin
+<s> [webpack.Progress] 9% setup compilation TerserPlugin
+<s> [webpack.Progress] 9% setup compilation TemplatedPathPlugin
+<s> [webpack.Progress] 9% setup compilation RecordIdsPlugin
+<s> [webpack.Progress] 9% setup compilation WarnCaseSensitiveModulesPlugin
+<s> [webpack.Progress] 9% setup compilation IgnoreWarningsPlugin
+<s> [webpack.Progress] 9% setup compilation
+<s> [webpack.Progress] 10% building
+<s> [webpack.Progress] 10% building 0/1 entries 0/0 dependencies 0/0 modules
+<s> [webpack.Progress] 10% building import loader ./node_modules/@angular-devkit/build-angular/src/babel/webpack-loader.js
+<s> [webpack.Progress] 10% building import loader ./node_modules/babel-loader/lib/index.js
+<s> [webpack.Progress] 10% building 0/18 entries 12/18 dependencies 0/12 modules
+<s> [webpack.Progress] 10% building import loader ./node_modules/mini-css-extract-plugin/dist/loader.js
+<s> [webpack.Progress] 10% building import loader ./node_modules/css-loader/dist/cjs.js
+<s> [webpack.Progress] 10% building import loader ./node_modules/postcss-loader/dist/cjs.js
+<s> [webpack.Progress] 10% building 0/18 entries 13/18 dependencies 0/13 modules
+<s> [webpack.Progress] 10% building import loader ./node_modules/@ngtools/webpack/src/ivy/index.js
+<s> [webpack.Progress] 10% building 0/18 entries 15/19 dependencies 0/15 modules
+<s> [webpack.Progress] 10% building import loader ./node_modules/@storybook/source-loader/dist/cjs/index.js
+<s> [webpack.Progress] 10% building 0/18 entries 87/138 dependencies 0/51 modules
+<s> [webpack.Progress] 13% building 1/18 entries 115/147 dependencies 2/73 modules
+<s> [webpack.Progress] 16% building 2/18 entries 216/253 dependencies 12/120 modules
+<s> [webpack.Progress] 16% building 2/18 entries 402/475 dependencies 37/179 modules
+<s> [webpack.Progress] 19% building 3/18 entries 582/633 dependencies 65/236 modules
+<s> [webpack.Progress] 19% building 3/18 entries 882/1000 dependencies 81/305 modules
+<s> [webpack.Progress] 19% building 3/18 entries 1066/1200 dependencies 104/345 modules
+<s> [webpack.Progress] 19% building 3/18 entries 1200/1250 dependencies 118/388 modules
+<s> [webpack.Progress] 19% building 3/18 entries 1287/1400 dependencies 147/390 modules
+<s> [webpack.Progress] 19% building 3/18 entries 1400/1501 dependencies 166/411 modules
+<s> [webpack.Progress] 19% building 3/18 entries 1585/2100 dependencies 179/444 modules
+<s> [webpack.Progress] 19% building 3/18 entries 1900/2260 dependencies 201/569 modules
+<s> [webpack.Progress] 22% building 4/18 entries 1964/2260 dependencies 248/569 modules
+<s> [webpack.Progress] 22% building 4/18 entries 2280/2800 dependencies 261/650 modules
+<s> [webpack.Progress] 22% building 4/18 entries 3177/3200 dependencies 321/894 modules
+<s> [webpack.Progress] 22% building 4/18 entries 3396/3500 dependencies 350/900 modules
+<s> [webpack.Progress] 22% building 4/18 entries 3500/3520 dependencies 350/947 modules
+<s> [webpack.Progress] 22% building 4/18 entries 4115/4200 dependencies 454/993 modules
+<s> [webpack.Progress] 22% building 4/18 entries 4443/4499 dependencies 600/1047 modules
+<s> [webpack.Progress] 22% building 4/18 entries 4841/5000 dependencies 812/1138 modules
+<s> [webpack.Progress] 22% building 4/18 entries 4962/5100 dependencies 819/1181 modules
+<s> [webpack.Progress] 22% building 4/18 entries 5300/5335 dependencies 925/1291 modules
+<s> [webpack.Progress] 22% building 4/18 entries 5600/5692 dependencies 1055/1349 modules
+<s> [webpack.Progress] 22% building 4/18 entries 6047/6100 dependencies 1162/1577 modules
+<s> [webpack.Progress] 25% building 4/18 entries 6247/6300 dependencies 1375/1619 modules
+<s> [webpack.Progress] 25% building 4/18 entries 6316/6400 dependencies 1408/1629 modules
+<s> [webpack.Progress] 26% building 4/18 entries 6464/6500 dependencies 1483/1656 modules
+<s> [webpack.Progress] 27% building 5/18 entries 6750/6757 dependencies 1596/1695 modules
+<s> [webpack.Progress] 28% building 6/18 entries 6750/6757 dependencies 1597/1695 modules
+<s> [webpack.Progress] 31% building 7/18 entries 6750/6757 dependencies 1598/1695 modules
+<s> [webpack.Progress] 34% building 8/18 entries 6750/6757 dependencies 1599/1695 modules
+<s> [webpack.Progress] 37% building 9/18 entries 6750/6757 dependencies 1600/1695 modules
+<s> [webpack.Progress] 40% building 10/18 entries 6750/6757 dependencies 1601/1695 modules
+<s> [webpack.Progress] 43% building 11/18 entries 6750/6757 dependencies 1602/1695 modules
+<s> [webpack.Progress] 46% building 12/18 entries 6750/6757 dependencies 1603/1695 modules
+<s> [webpack.Progress] 49% building 13/18 entries 6750/6757 dependencies 1604/1695 modules
+<s> [webpack.Progress] 52% building 14/18 entries 6864/6875 dependencies 1664/1717 modules
+<s> [webpack.Progress] 55% building 15/18 entries 6958/6959 dependencies 1709/1758 modules
+<s> [webpack.Progress] 58% building 16/18 entries 6960/6961 dependencies 1732/1758 modules
+<s> [webpack.Progress] 61% building 17/18 entries 6960/6961 dependencies 1732/1758 modules
+<s> [webpack.Progress] 64% building 18/18 entries 6962/6962 dependencies 1759/1759 modules
+<s> [webpack.Progress] 65% building
+<s> [webpack.Progress] 69% building finish
+<s> [webpack.Progress] 69% building finish
+<s> [webpack.Progress] 70% sealing finish module graph
+<s> [webpack.Progress] 70% sealing finish module graph angular-compiler
+<s> [webpack.Progress] 70% sealing finish module graph ResolverCachePlugin
+<s> [webpack.Progress] 70% sealing finish module graph InferAsyncModulesPlugin
+<s> [webpack.Progress] 70% sealing finish module graph FlagDependencyExportsPlugin
+<s> [webpack.Progress] 70% sealing finish module graph InnerGraphPlugin
+<s> [webpack.Progress] 70% sealing finish module graph WasmFinalizeExportsPlugin
+<s> [webpack.Progress] 70% sealing finish module graph
+<s> [webpack.Progress] 70% sealing plugins
+<s> [webpack.Progress] 70% sealing plugins WarnCaseSensitiveModulesPlugin
+<s> [webpack.Progress] 70% sealing plugins
+<s> [webpack.Progress] 71% sealing dependencies optimization
+<s> [webpack.Progress] 71% sealing dependencies optimization SideEffectsFlagPlugin
+<s> [webpack.Progress] 71% sealing dependencies optimization FlagDependencyUsagePlugin
+<s> [webpack.Progress] 71% sealing dependencies optimization
+<s> [webpack.Progress] 71% sealing after dependencies optimization
+<s> [webpack.Progress] 71% sealing after dependencies optimization
+<s> [webpack.Progress] 72% sealing chunk graph
+<s> [webpack.Progress] 72% sealing chunk graph
+<s> [webpack.Progress] 73% sealing after chunk graph
+<s> [webpack.Progress] 73% sealing after chunk graph
+<s> [webpack.Progress] 73% sealing optimizing
+<s> [webpack.Progress] 73% sealing optimizing
+<s> [webpack.Progress] 74% sealing module optimization
+<s> [webpack.Progress] 74% sealing module optimization
+<s> [webpack.Progress] 75% sealing after module optimization
+<s> [webpack.Progress] 75% sealing after module optimization
+<s> [webpack.Progress] 75% sealing chunk optimization
+<s> [webpack.Progress] 75% sealing chunk optimization EnsureChunkConditionsPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization RemoveEmptyChunksPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization MergeDuplicateChunksPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization SplitChunksPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization RemoveEmptyChunksPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization
+<s> [webpack.Progress] 76% sealing after chunk optimization
+<s> [webpack.Progress] 76% sealing after chunk optimization
+<s> [webpack.Progress] 77% sealing module and chunk tree optimization
+<s> [webpack.Progress] 77% sealing module and chunk tree optimization PersistentChildCompilerSingletonPlugin
+<s> [webpack.Progress] 77% sealing module and chunk tree optimization
+<s> [webpack.Progress] 77% sealing after module and chunk tree optimization
+<s> [webpack.Progress] 77% sealing after module and chunk tree optimization
+<s> [webpack.Progress] 78% sealing chunk modules optimization
+<s> [webpack.Progress] 78% sealing chunk modules optimization ModuleConcatenationPlugin
+<s> [webpack.Progress] 78% sealing chunk modules optimization
+<s> [webpack.Progress] 78% sealing after chunk modules optimization
+<s> [webpack.Progress] 78% sealing after chunk modules optimization
+<s> [webpack.Progress] 79% sealing module reviving
+<s> [webpack.Progress] 79% sealing module reviving RecordIdsPlugin
+<s> [webpack.Progress] 79% sealing module reviving
+<s> [webpack.Progress] 80% sealing before module ids
+<s> [webpack.Progress] 80% sealing before module ids
+<s> [webpack.Progress] 80% sealing module ids
+<s> [webpack.Progress] 80% sealing module ids NamedModuleIdsPlugin
+<s> [webpack.Progress] 80% sealing module ids
+<s> [webpack.Progress] 81% sealing module id optimization
+<s> [webpack.Progress] 81% sealing module id optimization
+<s> [webpack.Progress] 82% sealing module id optimization
+<s> [webpack.Progress] 82% sealing module id optimization
+<s> [webpack.Progress] 82% sealing chunk reviving
+<s> [webpack.Progress] 82% sealing chunk reviving RecordIdsPlugin
+<s> [webpack.Progress] 82% sealing chunk reviving
+<s> [webpack.Progress] 83% sealing before chunk ids
+<s> [webpack.Progress] 83% sealing before chunk ids
+<s> [webpack.Progress] 84% sealing chunk ids
+<s> [webpack.Progress] 84% sealing chunk ids DeterministicChunkIdsPlugin
+<s> [webpack.Progress] 84% sealing chunk ids
+<s> [webpack.Progress] 84% sealing chunk id optimization
+<s> [webpack.Progress] 84% sealing chunk id optimization FlagIncludedChunksPlugin
+<s> [webpack.Progress] 84% sealing chunk id optimization
+<s> [webpack.Progress] 85% sealing after chunk id optimization
+<s> [webpack.Progress] 85% sealing after chunk id optimization
+<s> [webpack.Progress] 86% sealing record modules
+<s> [webpack.Progress] 86% sealing record modules RecordIdsPlugin
+<s> [webpack.Progress] 86% sealing record modules
+<s> [webpack.Progress] 86% sealing record chunks
+<s> [webpack.Progress] 86% sealing record chunks RecordIdsPlugin
+<s> [webpack.Progress] 86% sealing record chunks
+<s> [webpack.Progress] 87% sealing module hashing
+<s> [webpack.Progress] 87% sealing module hashing
+<s> [webpack.Progress] 87% sealing code generation
+<s> [webpack.Progress] 87% sealing code generation
+<s> [webpack.Progress] 88% sealing runtime requirements
+<s> [webpack.Progress] 88% sealing runtime requirements
+<s> [webpack.Progress] 89% sealing hashing
+<s> [webpack.Progress] 89% sealing hashing
+<s> [webpack.Progress] 89% sealing after hashing
+<s> [webpack.Progress] 89% sealing after hashing
+<s> [webpack.Progress] 90% sealing record hash
+<s> [webpack.Progress] 90% sealing record hash
+<s> [webpack.Progress] 91% sealing module assets processing
+<s> [webpack.Progress] 91% sealing module assets processing
+<s> [webpack.Progress] 91% sealing chunk assets processing
+<s> [webpack.Progress] 91% sealing chunk assets processing
+<s> [webpack.Progress] 92% sealing asset processing
+<s> [webpack.Progress] 92% sealing asset processing copy-webpack-plugin
+<s> [webpack.Progress] 92% sealing asset processing PersistentChildCompilerSingletonPlugin
+<s> [webpack.Progress] 92% sealing asset processing TerserPlugin
+info => Manager built (39 s)
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.css generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.css generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.7382b0fc.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.7382b0fc.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin runtime~main.43af510d.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin runtime~main.43af510d.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 747.dbdd7396.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 747.dbdd7396.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 366.4d841bf6.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 366.4d841bf6.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 565.97c23ebe.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 565.97c23ebe.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 239.358924bb.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 239.358924bb.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 471.54b39b1b.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 471.54b39b1b.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 345.793cee98.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 345.793cee98.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 39.920b7308.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 39.920b7308.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 996.b03aef82.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 996.b03aef82.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 225.ff116299.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 225.ff116299.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 291.03611412.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 291.03611412.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 877.9e97d87c.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 877.9e97d87c.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin resolve sources
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 877.9e97d87c.iframe.bundle.js attach SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 877.9e97d87c.iframe.bundle.js attached SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin resolve sources
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
+<s> [webpack.Progress] 92% sealing asset processing HtmlWebpackPlugin
+<s> [webpack.Progress] 92% sealing asset processing HtmlWebpackPlugin
+<s> [webpack.Progress] 92% sealing asset processing HtmlWebpackPlugin resolve sources
+<s> [webpack.Progress] 92% sealing asset processing HtmlWebpackPlugin
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin main.cb957390.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin main.cb957390.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin runtime~main.d74fe5f8.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin runtime~main.d74fe5f8.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 747.2e592bfe.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 747.2e592bfe.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 345.b8f4061f.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 345.b8f4061f.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 996.66e30629.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 996.66e30629.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 225.adf1b44b.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 225.adf1b44b.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 366.c7e6936b.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 366.c7e6936b.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 565.de0d997c.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 565.de0d997c.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 239.43bc22d7.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 239.43bc22d7.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 471.162020a3.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 471.162020a3.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 39.2ed10874.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 39.2ed10874.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 291.4044512f.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 291.4044512f.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin resolve sources
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin
+<s> [webpack.Progress] 92% sealing asset processing AnyComponentStyleBudgetChecker
+<s> [webpack.Progress] 92% sealing asset processing
+<s> [webpack.Progress] 93% sealing after asset optimization
+<s> [webpack.Progress] 93% sealing after asset optimization
+<s> [webpack.Progress] 93% sealing recording
+<s> [webpack.Progress] 93% sealing recording
+<s> [webpack.Progress] 94% sealing after seal
+<s> [webpack.Progress] 94% sealing after seal
+<s> [webpack.Progress] 95% emitting emit
+<s> [webpack.Progress] 95% emitting emit
+<s> [webpack.Progress] 98% emitting after emit
+<s> [webpack.Progress] 98% emitting after emit SizeLimitsPlugin
+<s> [webpack.Progress] 98% emitting after emit
+<s> [webpack.Progress] 99% done plugins
+<s> [webpack.Progress] 99% done plugins CaseSensitivePathsPlugin
+<s> [webpack.Progress] 99% done plugins
+<s> [webpack.Progress] 99% 
+
+<s> [webpack.Progress] 99% cache store build dependencies
+<s> [webpack.Progress] 99% cache store build dependencies
+<s> [webpack.Progress] 99% cache begin idle
+<s> [webpack.Progress] 99% cache begin idle
+<s> [webpack.Progress] 100% 
+
+info => Preview built (48 s)
+WARN /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/app/app.component.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/app/app.module.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/app/components/inbox-screen.component.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/environments/environment.prod.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/environments/environment.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/main.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/stories/Button.stories.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/stories/Header.stories.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/stories/Page.stories.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/stories/User.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/stories/button.component.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/stories/header.component.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN /home/matheuscabralkk/DevWorkspace/my_projects/multi-case-project/taskbox/src/stories/page.component.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).
+WARN This can impact web performance.
+WARN Assets: 
+WARN   366.c7e6936b.iframe.bundle.js (601 KiB)
+WARN   565.de0d997c.iframe.bundle.js (603 KiB)
+WARN   471.162020a3.iframe.bundle.js (791 KiB)
+WARN   877.1d47db14.iframe.bundle.js (3.15 MiB)
+WARN entrypoint size limit: The following entrypoint(s) combined asset size exceeds the recommended limit (244 KiB). This can impact web performance.
+WARN Entrypoints:
+WARN   main (3.27 MiB)
+WARN       runtime~main.d74fe5f8.iframe.bundle.js
+WARN       877.1d47db14.iframe.bundle.js
+WARN       main.css
+WARN       main.cb957390.iframe.bundle.js
+WARN 
+<s> [webpack.Progress] 99% cache shutdown
+<s> [webpack.Progress] 99% cache shutdown
+<s> [webpack.Progress] 100% 
+
+info => Output directory: /tmp/chromatic--353497-TWjxFPrRARAE
